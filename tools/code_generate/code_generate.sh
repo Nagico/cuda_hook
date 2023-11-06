@@ -1,10 +1,10 @@
+#!/bin/bash
+
 # Copyright 2022. All Rights Reserved.
 # Author: Bruce-Lee-LY
 # Date: 23:56:07 on Sat, May 28, 2022
 #
 # Description: code generate script
-
-#!/bin/bash
 
 set -euo pipefail
 

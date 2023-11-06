@@ -1,10 +1,10 @@
+#!/bin/bash
+
 # Copyright 2022. All Rights Reserved.
 # Author: Bruce-Lee-LY
 # Date: 22:25:53 on Sun, May 29, 2022
 #
 # Description: run sample script
-
-#!/bin/bash
 
 set -euo pipefail
 
